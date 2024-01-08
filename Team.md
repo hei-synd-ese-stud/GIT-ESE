@@ -9,7 +9,7 @@ Update your `first-name` in the list below:
 * C. J.
 * jean-bernard le suprème
 * D. A.
-* H. R.
+* H. Rémi
 * R. G.
 * S. Y.
 * S. H. M.
