@@ -8,7 +8,7 @@ Update your `first-name` in the list below:
 * C. R.
 * C. J.
 * D. S.
-* D. A.
+* D. Arnaud
 * H. R.
 * R. G.
 * S. Y.
