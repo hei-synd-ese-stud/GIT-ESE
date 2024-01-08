@@ -10,6 +10,6 @@ Update your `first-name` in the list below:
 * jean-bernard le suprème
 * D. Arnaud
 * H. Rémi
-* R. G.
+* R. Guillaume
 * S. Yann
 * S. Helena M.
