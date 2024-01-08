@@ -5,7 +5,7 @@ Update your `first-name` in the list below:
 
 * Sylvan
 * B. A.
-* C. R.
+* Carrupt Robin
 * C. J		
 * jean-bernard le suprème
 * D. Arnaud
