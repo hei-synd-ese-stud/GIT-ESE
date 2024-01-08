@@ -7,7 +7,7 @@ Update your `first-name` in the list below:
 * B. A.
 * C. R.
 * C. J.
-* D. S.
+* jean-bernard le suprème
 * D. A.
 * H. R.
 * R. G.
