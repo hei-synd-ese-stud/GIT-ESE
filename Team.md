@@ -3,7 +3,7 @@
 This is a Markdown file.
 Update your `first-name` in the list below:
 
-* A. S.
+* Sylvan
 * B. A.
 * C. R.
 * C. J.
