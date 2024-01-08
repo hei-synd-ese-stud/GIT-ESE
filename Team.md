@@ -12,4 +12,4 @@ Update your `first-name` in the list below:
 * H. Rémi
 * R. G.
 * S. Yann
-* S. H. M.
+* S. Helena M.
