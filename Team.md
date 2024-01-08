@@ -6,7 +6,7 @@ Update your `first-name` in the list below:
 * Sylvan
 * B. A.
 * Carrupt Robin
-* C. J		
+* Chevalley Julien
 * jean-bernard le suprème
 * D. Arnaud
 * H. Rémi
