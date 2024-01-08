@@ -3,13 +3,13 @@
 This is a Markdown file.
 Update your `first-name` in the list below:
 
-* A. S.
+* Sylvan
 * B. A.
 * Carrupt Robin
-* C. J.
-* D. S.
-* D. A.
-* H. R.
+* C. J		
+* jean-bernard le suprème
+* D. Arnaud
+* H. Rémi
 * R. G.
 * S. Y.
 * S. H. M.
