@@ -5,11 +5,13 @@ Update your `first-name` in the list below:
 
 * A. S.
 * Bétirsey Mattia
-* C. R.
+* Diego Moreno
 * C. J.
 * D. S.
 * D. A.
-* H. R.
-* R. G.
+7) François Clément TW
+8) mathieu-berrut
 * S. Y.
 * S. H. M.
+* 
+* Nils
