@@ -7,7 +7,7 @@ Update your `first-name` in the list below:
 * Bétirsey Mattia
 * Diego Moreno
 * C. J.
-* D. S.
+5) Julien Bonvin
 * D. A.
 7) François Clément TW
 8) mathieu-berrut
