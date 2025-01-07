@@ -12,4 +12,4 @@ Update your `first-name` in the list below:
 * H. R.
 * R. G.
 * S. Y.
-* Fabien Beney
+* 10) Fabien Beney
