@@ -4,7 +4,7 @@ This is a Markdown file.
 Update your `first-name` in the list below:
 
 * A. S.
-* B. A.
+* Bétirsey Mattia
 * C. R.
 * C. J.
 * D. S.
