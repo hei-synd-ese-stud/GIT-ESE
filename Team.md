@@ -11,5 +11,5 @@ Update your `first-name` in the list below:
 * D. A.
 * H. R.
 * R. G.
-* S. Y.
+* 9) Julien Le Bras
 * S. H. M.
