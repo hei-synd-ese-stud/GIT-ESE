@@ -6,7 +6,7 @@ Update your `first-name` in the list below:
 * A. S.
 * B. A.
 * C. R.
-* C. J.
+* Julien Le Bras
 * D. S.
 * D. A.
 * H. R.
