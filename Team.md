@@ -9,7 +9,7 @@ Update your `first-name` in the list below:
 * C. J.
 * D. S.
 * D. A.
-* H. R.
+7) François Clément TW
 * R. G.
 * S. Y.
 * S. H. M.
