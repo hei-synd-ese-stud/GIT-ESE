@@ -5,7 +5,7 @@ Update your `first-name` in the list below:
 
 * A. S.
 * B. A.
-* C. R.
+* Diego Moreno
 * C. J.
 * D. S.
 * D. A.
