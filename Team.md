@@ -11,7 +11,7 @@ Update your `first-name` in the list below:
 * D. A.
 7) François Clément TW
 8) mathieu-berrut
-* S. Y.
+9) Julien Le Bras
 * S. H. M.
 * Nina Pianzola
 * Nils
