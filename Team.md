@@ -4,12 +4,14 @@ This is a Markdown file.
 Update your `first-name` in the list below:
 
 * A. S.
-* B. A.
+* Bétirsey Mattia
 * Diego Moreno
 * C. J.
 * D. S.
 * D. A.
-* H. R.
-* R. G.
-* S. Y.
-* 10) Fabien Beney
+7) François Clément TW
+8) mathieu-berrut
+9) Julien Le Bras
+10) Fabien Beney
+* Nina Pianzola
+* Nils
