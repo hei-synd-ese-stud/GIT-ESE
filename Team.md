@@ -6,7 +6,7 @@ Update your `first-name` in the list below:
 * A. S.
 * Bétirsey Mattia
 * Diego Moreno
-* C. J.
+4) Loris Németh 
 5) Julien Bonvin
 * D. A.
 7) François Clément TW
