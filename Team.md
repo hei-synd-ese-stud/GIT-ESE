@@ -13,5 +13,5 @@ Update your `first-name` in the list below:
 8) mathieu-berrut
 * S. Y.
 * S. H. M.
-* 
+* Nina Pianzola
 * Nils
