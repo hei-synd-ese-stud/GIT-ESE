@@ -10,6 +10,6 @@ Update your `first-name` in the list below:
 * D. S.
 * D. A.
 * H. R.
-* R. G.
+8) mathieu-berrut
 * S. Y.
 * S. H. M.
