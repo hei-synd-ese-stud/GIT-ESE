@@ -3,7 +3,7 @@
 This is a Markdown file.
 Update your `first-name` in the list below:
 
-* A. S.
+Tissières Théo
 * Bétirsey Mattia
 * Diego Moreno
 4) Loris Németh 
